@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//为sort函数添加了注释
 void sort(int arr[],int n)
 {
 	for(int i=0;i<n;i++)
