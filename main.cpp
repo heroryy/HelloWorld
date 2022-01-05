@@ -16,6 +16,7 @@ void sort(int arr[],int n)
 		}
 	}
 }
+//为main函数添加了注释
 int main()
 {
 	int arr[]={1,3,2,4,5,7};
